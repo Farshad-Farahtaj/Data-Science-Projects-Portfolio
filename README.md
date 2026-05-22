@@ -20,7 +20,7 @@ This repository is a curated collection of advanced statistical and analytical p
 * **Key Highlights:** 
     * Implemented Binary and Multinomial Logistic Regression.
     * Diagnosed and corrected **overdispersion** in count data using Negative Binomial models.
-    * [Explore Categorical Projects →](Categorical-Data-Modeling/)
+    * [Explore Categorical Projects →]([Categorical-Data-Modeling](https://github.com/Farshad-Farahtaj/Data-Science-Projects-Portfolio/tree/be87564f1622cacc0c9279d16470c4a7b7473978/Categorical-Data-Modeling))
 
 ### 2. Educational Multilevel Modeling
 *Focus: Hierarchical Mixed-Effects Models*
