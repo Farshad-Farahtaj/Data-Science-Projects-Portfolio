@@ -1,4 +1,4 @@
-# 🚀 Data Science & Statistical Modeling Portfolio
+#  Data Science & Statistical Modeling Portfolio
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)](https://www.python.org/)
 [![Statsmodels](https://img.shields.io/badge/Statsmodels-Analysis-green)](https://www.statsmodels.org/)
