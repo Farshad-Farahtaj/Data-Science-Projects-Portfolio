@@ -44,7 +44,7 @@ I leverage the Python data science ecosystem to build scalable and reproducible 
 ## 📬 Connect with Me
 I am passionate about statistical learning, econometrics, and data-driven policy making. Feel free to browse the projects, examine the methodologies, and reach out if you'd like to collaborate or discuss the statistical approaches used here.
 
-* [Your LinkedIn Profile Link]
-* [Your Email Address]
+* www.linkedin.com/in/farshad-farahtaj-917118258
+*farahtaj.farshad@gmail.com
 
 *Feel free to star this repository if you find the methodologies useful!*
